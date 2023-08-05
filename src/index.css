@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Inter", sans-serif;
+}
+input {
+  outline: none;
+}
+a {
+  -webkit-tap-highlight-color: transparent !important;
+  outline: none !important;
+}
+
+.h-screen {
+  height: 100dvh;
+}
+.min-h-screen {
+  min-height: 100dvh;
+}

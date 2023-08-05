@@ -1,0 +1,14 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" id="interest-consumption-medium" data-supported-dps="24x24">
+  <g>
+    <path d="M12 0a12 12 0 0112 12 12 12 0 01-12 12A12 12 0 010 12 12 12 0 0112 0z" fill="none"/>
+    <circle cx="12" cy="12" r="11" fill="#f5bb5c"/>
+    <path d="M13.29 20.48h-2.52a.86.86 0 01-.84-.84v-2.1h4.2v2.1a.86.86 0 01-.84.84z" fill="#ffe1b2" fill-rule="evenodd"/>
+    <path d="M9.93 18v-.42A4.7 4.7 0 009.69 16a5.21 5.21 0 00-.81-1.26A5.14 5.14 0 017 10.84a5 5 0 1110.08 0 5.27 5.27 0 01-2 4l-.06.05a1.75 1.75 0 00-.29.32 2.49 2.49 0 00-.36.73 5.15 5.15 0 00-.24 1.61V18" fill="#fcf0de" fill-rule="evenodd"/>
+    <path d="M7 3.68l1.05 1.39M17.49 3.68l-1.06 1.39M12 2v2.1" fill="none" stroke="#5d3b01" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M11.15 6.93A3.51 3.51 0 009.23 8a3.93 3.93 0 00-1.07 1.9" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M11.26 15.06a4 4 0 003.5-1 4.31 4.31 0 00-.22-6.5M14.13 14.6a3.62 3.62 0 00-.77 2.51" fill="none"/>
+    <path d="M13.29 20.48h-2.52a.86.86 0 01-.84-.84v-2.1h4.2v2.1a.86.86 0 01-.84.84z" fill="none" stroke="#5d3b01" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M9.93 18v-.42A4.7 4.7 0 009.69 16a2.34 2.34 0 00-.41-.74 4.1 4.1 0 00-.58-.67 5.39 5.39 0 01-.58-.59 4.93 4.93 0 01-.83-1.46 4.68 4.68 0 01-.29-1.7h0A5 5 0 1115.93 14a6.45 6.45 0 01-.9.91 1.93 1.93 0 00-.31.33 2.73 2.73 0 00-.35.73 4.88 4.88 0 00-.24 1.61V18" fill="none" stroke="#5d3b01" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
